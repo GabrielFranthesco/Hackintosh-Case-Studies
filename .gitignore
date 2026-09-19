@@ -1,0 +1,7 @@
+# Arquivos de metadados do macOS
+.DS_Store
+._*
+
+# Logs do OpenCore e arquivos temporários de NVRAM
+*.txt
+nvram.plist
